@@ -14,7 +14,7 @@ header {
 }
 
 .chamada {
-    background: #ff9cd1;
+    background: #80178e;
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -52,9 +52,9 @@ p {
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 3px solid rgb(218, 133, 203);
+    border: 3px solid rgb(231, 141, 195);
 }
 
 .categoria h2 {
-    color: rgb(228, 42, 163);
+    color: rgb(245, 17, 146);
 }
